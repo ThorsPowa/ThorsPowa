@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Implementing a SOC and Honeypot in Azure](https://)
+- [Implementing a SOC and Honeypot in Azure](https://github.com/ThorsPowa/SOC-and-Honeypot-in-Azure-Lab/tree/main)
 - [Active Directory Home Lab](https://)
 
 <h2>📺 Game Development Projects:</h2>
